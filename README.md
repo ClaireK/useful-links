@@ -1,6 +1,8 @@
 # Useful Links #
 
-##Industry blogs##
+This is a collection of links I use on a regular basis
+
+## Industry blogs ##
 
 [Smashing Magazine](http://www.smashingmagazine.com/)   
 [CSS Trick](http://css-tricks.com/)  
